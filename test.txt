@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I'll commit this file rather than upload it to GitHub again.
+=======
+I'll commit this file rather than upload it to GitHub.
+>>>>>>> bb74f468e13db7664ede7df832555483aff24e93
